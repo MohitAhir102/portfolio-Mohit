@@ -22,12 +22,12 @@ const Card = () => {
       <div class="p-5">
         <a href="helo">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-            Noteworthy technology acquisitions 2021
+            Marriage Registration (GOV - BMC)
+
           </h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-          Here are the biggest enterprise technology acquisitions of 2021 so
-          far, in reverse chronological order.
+        Developed a full-stack web application utilizing Node.js for the backend and React.js for the frontend to streamline the issuance and management of marriage certificates. Implemented robust backend functionalities with Express.js and MongoDB for data storage, while creating a dynamic and user-friendly interface with React.js. Integrated secure authentication features to ensure data protection and optimized the process for certificate issuance and record keeping for both applicants and administrative personnel.
         </p>
         <a
           href="hello"
