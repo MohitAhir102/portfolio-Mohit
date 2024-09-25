@@ -53,7 +53,7 @@ const Home = () => {
               }
             >
               I am a Front-End / Full-Stack Developer. I am currently working at
-              CloudStok Technologies as a Front-End Developer
+              Bytesved Technologie as a Front-End Developer
             </p>
             <div className="flex md:justify-start ">
               {contactLinks.map((el) => (
